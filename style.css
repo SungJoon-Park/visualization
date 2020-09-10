@@ -5,22 +5,20 @@ h1{
     font-size: 60px;
 }
 
-button{
-    background-color:#50614e;
-    color: white;
+.button {
+    background-color: #50614e;
     font-family: sans-serif;
     width: 500px;
-    padding: 10px;
-    margin-bottom:30px;
+    margin-bottom: 30px;
     border-radius: 5px;
     font-size: 15px;
 }
 
-.generated-content {
+p.generated-content {
     margin: 10px 0;
     padding: 15px;
     background-color: #f7f7f7;
-    border: 1px solid #ddd;
+    border: 2px solid #ddd;
     border-radius: 5px;
     margin-right: 20px;
 }
@@ -35,6 +33,10 @@ button{
 img{
     border-radius: 20px;
     padding: 10px;
+}
+
+a:hover{
+    background-color: yellow;
 }
 
 #link{
