@@ -1,0 +1,42 @@
+h1{
+    color: #D3D3D3;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 60px;
+}
+
+button{
+    background-color:#50614e;
+    color: white;
+    font-family: sans-serif;
+    width: 500px;
+    padding: 10px;
+    margin-bottom:30px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.generated-content {
+    margin: 10px 0;
+    padding: 15px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.row{
+    display:flex;
+}
+
+.column{
+    flex:30%;
+}
+img{
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#link{
+    font-style:italic;
+}
